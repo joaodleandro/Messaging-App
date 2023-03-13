@@ -1,0 +1,11 @@
+{"_id":"a","encryptedPassword":"0cc175b9c0f1b6a831c399e269772661","contacts":["b","c","d"]}
+{"_id":"b","encryptedPassword":"92eb5ffee6ae2fec3ad71c777531578f","contacts":["a","c"]}
+{"_id":"c","encryptedPassword":"4a8a08f09d37b73795649038408b5f33","contacts":["a","b"]}
+{"_id":"d","encryptedPassword":"8277e0910d750195b448797616e091ad","contacts":["a","b","c"]}
+{"_id":"e","encryptedPassword":"e1671797c52e15f763380b45e841ec32","contacts":["a","b","c","d"]}
+{"_id":"f","encryptedPassword":"8277e0910d750195b448797616e091ad","contacts":["a","b","c","d","e"]}
+{"_id":"g","encryptedPassword":"b2f5ff47436671b6e533d8dc3614845d","contacts":["a","b","c","d","e","f"]}
+{"_id":"h","encryptedPassword":"2510c39011c5be704182423e3a695e91","contacts":["a","b","c","d","e"]}
+{"_id":"j","encryptedPassword":"363b122c528f54df4a0446b6bab05515","contacts":["a"]}
+{"_id":"k","encryptedPassword":"8ce4b16b22b58894aa86c421e8759df3"}
+{"_id":"k","encryptedPassword":"8ce4b16b22b58894aa86c421e8759df3","contacts":["a"]}

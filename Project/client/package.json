@@ -1,0 +1,36 @@
+{
+  "name": "client2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.tsx",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "@types/react": "^18.0.26",
+    "css-loader": "^6.7.2",
+    "file-loader": "^6.2.0",
+    "html-loader": "^4.2.0",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.4.2",
+    "webpack-cli": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/file-saver": "^2.0.5",
+    "axios": "^1.2.0",
+    "crypto-js": "^4.1.1",
+    "html-webpack-plugin": "^5.5.0",
+    "image-webpack-loader": "^8.1.0",
+    "localforage": "^1.10.0",
+    "mdb-react-ui-kit": "^5.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.6.0",
+    "react-bootstrap-icons": "^1.10.2",
+    "react-dom": "^18.2.0",
+    "react-images-uploading": "^3.1.7"
+  }
+}
